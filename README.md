@@ -34,8 +34,16 @@ bash helloworld.sh
 | [tasks](tasks)  | Simple Bash tasks/challenges |
 | [scripts](scripts) | Sample Scripts |
 
-## Contributing
 
 ## Authors and Acknowledgment
 
+
+## Contributors 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/Contributors-2-green)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ## Project Status
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/Project%20Staus-Active-green)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
