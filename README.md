@@ -47,3 +47,11 @@ bash helloworld.sh
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/Project%20Staus-Active-green)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+## Useful Tips for Writing Effective Bash Scripts
+
+1. Always use comments in your scripts
+2. Make a script exit when it fails
+3. Use double quotes to reference variables
+4. Use Uppercase names for environment variables and lowercase for custom variables 
+5. Use functions in scripts
