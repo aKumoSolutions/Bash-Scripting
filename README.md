@@ -8,6 +8,7 @@
 
 ## What is Bash Script?
 
+A Bash script is a plain text file which contains a series of commands. These commands are a mixture of commands we would normally type ouselves on the command line (such as ```ls``` or ```cp``` for example).
 ## Hello World Bash Shell Script
 
 Writing your first, basic bash shell script. Using any text editor create a file called ```helloworld.sh```, add the following code.
@@ -30,9 +31,10 @@ bash helloworld.sh
 
 | Folder  | Description |
 | ------------- | ------------- |
+| [arrays](arrays) | Basics of Bash Arrays |
 | [simplescripts](simplescripts)  | Basics of Bash Scripting  |
 | [tasks](tasks)  | Simple Bash tasks/challenges |
-| [scripts](scripts) | Sample Scripts |
+| [scripts](scripts) | Sample Scripts | 
 
 ## Useful Tips for Writing Effective Bash Scripts
 
