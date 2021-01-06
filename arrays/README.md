@@ -44,3 +44,8 @@ ARRAY3=({A..D})    # => A B C D
 | ------------- |
 | [interation.sh](iteration.sh)  |
 | [withindex.sh](withindex.sh)  |
+
+## Useful Pages
+[Arrays in Bash](https://www.gnu.org/software/bash/manual/html_node/Arrays.html#:~:text=Bash%20provides%20one%2Ddimensional%20indexed,be%20indexed%20or%20assigned%20contiguously.)
+
+[Bash Beginners Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_10_02.html)
