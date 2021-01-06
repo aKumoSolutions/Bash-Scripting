@@ -11,6 +11,10 @@
 A Bash script is a plain text file which contains a series of commands. These commands are a mixture of commands we would normally type ouselves on the command line (such as ```ls``` or ```cp``` for example).
 ## Hello World Bash Shell Script
 
+<p align="center">
+  <img width="350" height="250" src="img/hello_world.gif">
+</p>
+
 Writing your first, basic bash shell script. Using any text editor create a file called ```helloworld.sh```, add the following code.
 ```
 #!/bin/bash
@@ -23,9 +27,6 @@ Run your script:
 ```
 bash helloworld.sh
 ```
-<p align="center">
-  <img width="350" height="250" src="img/hello_world.gif">
-</p>
 
 ## Folders
 
