@@ -12,6 +12,10 @@ touch abc3.txt
 
 **Step 2:** Run Script - by default the script is setup to print ```abc3.txt modification time is recent compared to abc2.txt``` , as it compares the timestamp between ```abc3.txt``` and ```abc2.txt```. 
 
+```
+bash compare_timestamp.sh
+```
+
 **Note:** This is a simple script that compares the values (in seconds) of 2 files and prints a message if the value1 is greater than value2. 
 
 
